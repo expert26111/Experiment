@@ -7,14 +7,19 @@ master crazy branch
 newBranch hello
 Here i am pushing  .
 
+
 Interasjkbdfjdsctive rebasing hi sig
 Here i sbdfsdadd text to master branch.
 Text cohsbdfbmming from newBranch.
 I am currently on newBrach and I am keep this tesxt changing the text file.
 
-Interactive rebasing
+Interactive rebasi
+Interactive &&&&&&&&&rebasing
+
 Here i add text to master branch.
-Text comming from newBranch.
+Text comming from newBranch.************
 I am currently on newBrach and I am keep this tesxt changing the text file.
 Now master should be ahead.
+
+aide from the new folder
 
