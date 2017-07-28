@@ -1,3 +1,3 @@
-Here i am pushing this into master branch.
+Here i am pushing this into  now i add master branch.
 
 I am currently on newBrach and I am changing the text file.
