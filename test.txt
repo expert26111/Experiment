@@ -1,1 +1,3 @@
 Here i am pushing this into master branch.
+
+I am currently on newBrach and I am changing the text file.
