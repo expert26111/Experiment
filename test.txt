@@ -1,5 +1,6 @@
-master crazy branch
 
+master crazy branch
+newBranch 
 Here i am pushing  .
 Interactive rebasing
 Here i add text to master branch.
