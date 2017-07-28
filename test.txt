@@ -2,7 +2,7 @@ hello
 master crazy branch
 newBranch 
 Here i am pushing  .
-Interactive rebasing hi sig
-Here i add text to master branch.
-Text comming from newBranch.
+Interasjkbdfjdsctive rebasing hi sig
+Here i sbdfsdadd text to master branch.
+Text cohsbdfbmming from newBranch.
 I am currently on newBrach and I am keep this tesxt changing the text file.
