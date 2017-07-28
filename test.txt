@@ -1,5 +1,6 @@
 
+
 Here i am pushing this into hey sexy  now i add here .
 Here i add text to master branch.
-
+Text comming from newBranch.
 I am currently on newBrach and I am keep this text changing the text file.
