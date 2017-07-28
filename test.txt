@@ -1,6 +1,10 @@
+
 hello 
+
+trying new staff
+
 master crazy branch
-newBranch 
+newBranch hello
 Here i am pushing  .
 Interasjkbdfjdsctive rebasing hi sig
 Here i sbdfsdadd text to master branch.
