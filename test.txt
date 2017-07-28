@@ -1,8 +1,8 @@
-
+hello 
 master crazy branch
 newBranch 
 Here i am pushing  .
-Interactive rebasing
+Interactive rebasing hi sig
 Here i add text to master branch.
 Text comming from newBranch.
 I am currently on newBrach and I am keep this tesxt changing the text file.
