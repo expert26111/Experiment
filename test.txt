@@ -4,6 +4,7 @@ hello
 trying new staff
 
 master crazy branch
+
 newBranch hello
 Here i am pushing  .
 
@@ -14,6 +15,9 @@ Text cohsbdfbmming from newBranch.
 I am currently on newBrach and I am keep this tesxt changing the text file.
 
 Interactive rebasi
+
+newBransbfbdch hello
+
 Interactive &&&&&&&&&rebasing
 
 Here i add text to master branch.
